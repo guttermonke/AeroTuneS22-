@@ -1,0 +1,6 @@
+{
+  "name": "AeroTune S22+",
+  "description": "Lightweight thermal cooling, memory balance & resource runner tailored for Galaxy S22+ with Offerwall Safe Mode for Mistplay & Freecash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
